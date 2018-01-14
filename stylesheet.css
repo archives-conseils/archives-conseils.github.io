@@ -1,98 +1,98 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-family: ;
+  font-weight: ;
 }
 
 header {
-  padding: 30px 0;
+  padding: ;
 }
 
 header .row,
 footer .row {
-  display: flex;
-  align-items: center;
+  display: ;
+  align-items: ;
 }
 
 header h1 {
-  font-weight: 700;
-  margin: 0;
+  font-weight: ;
+  margin: ;
 }
 
 header nav {
-  display: flex;
-  justify-content: flex-end;
+  display: ;
+  justify-content: ;
 }
 
 header p {
-  padding: 0 20px;
-  margin: 0;
+  padding: ;
+  margin: ;
 }
 
 .jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
-  background-size: cover;
-  color: #ffffff;
-  height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  display: ;
+  align-items: ;
+  background-image: url('');
+  background-size: ;
+  color: ;
+  height: ;
+  text-shadow: ;
 }
 
 .jumbotron h2 {
-  font-size: 60px;
-  font-weight: 700;
-  margin: 0;
-  color: #fff;
+  font-size: ;
+  font-weight: ;
+  margin: ;
+  color: ;
 }
 
 .jumbotron h3 {
-  margin: 0 0 20px;
-  color: #fff;
+  margin: ;
+  color: ;
 }
 
 section .row img {
-  margin: 0 0 30px;
-  width: 100%;
+  margin: ;
+  width: ;
 }
 
 .col-md-6 {
-  margin: 0 0 30px;
+  margin: ;
 }
 
 .btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: #fbd1d5;
-  text-shadow: none;
-  background-color: #ffffff;
+  border-radius: ;
+  border: ;
+  color: ;
+  text-shadow: ;
+  background-color: ;
 }
 
 .btn.btn-primary:hover {
-  color: #ffffff;
-  background-color: #fbd1d5;
+  color: ;
+  background-color: ;
 }
 
 .btn-secondary {
-  background-color: #E8DFE0;
-  color: #ffffff;
-  margin: 0 0 30px;
+  background-color: ;
+  color: ;
+  margin: ;
 }
 
 footer {
-  font-size: 12px;
-  padding: 20px 0;
+  font-size: ;
+  padding: ;
 }
 
 footer .col-sm-8 {
-  display: flex;
-  justify-content: flex-end;
+  display: ;
+  justify-content: ;
 }
 
 footer ul {
-  list-style: none;
+  list-style: ;
 }
 
 footer li img {
-  width: 32px;
-  height: 32px;
+  width: ;
+  height: ;
 }
